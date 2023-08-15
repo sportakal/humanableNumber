@@ -1,0 +1,23 @@
+{
+  "name": "humanablenumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sportakal/humanableNumber.git"
+  },
+  "keywords": [
+    "humanable",
+    "number"
+  ],
+  "author": "sportakal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sportakal/humanableNumber/issues"
+  },
+  "homepage": "https://github.com/sportakal/humanableNumber#readme"
+}
