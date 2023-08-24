@@ -1,9 +1,9 @@
-export default (input?: number, showDecimal = null): string => {
+export default (input?: number, showDecimal?:boolean): string => {
     if (input === undefined || input === null) return ""
 
     let floorNumber = 1000
     let suffix = ""
-    let getFloor = input
+    let getFloor: number;
     let defaultDecimal: 1 | 0 = 0
     if (input >= 0 && input < 1000) {
         // 1 - 999
