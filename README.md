@@ -23,7 +23,7 @@ This package is used to convert a number to a human-readable format.
 
 1. Import the components into your project
    ```js
-   import { humanableNumber } from "humanablenumber"
+   import humanableNumber from "humanablenumber"
    ```
 2. Use functions in your project
    ```js
