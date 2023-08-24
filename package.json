@@ -1,6 +1,6 @@
 {
   "name": "humanablenumber",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package provides converting number to humanable format",
   "main": "dist/humanableNumber.js",
   "types": "dist/humanableNumber.d.ts",
